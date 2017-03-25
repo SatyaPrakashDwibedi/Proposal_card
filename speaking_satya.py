@@ -22,7 +22,8 @@ def play_music():
     en=pt.init()
     rate=en.getProperty('rate')
     en.setProperty('rate',rate-80)
-    en.say("Hey Reachi , I Have One Request; Please TakeCare Of  those ravishing eyes looking at the computer screen and Irresistible Smile Of Yours which are More Precious Than Kohinoor")
+    #enter name to be pronounced
+    en.say("Hey name , I Have One Request; Please TakeCare Of  those ravishing eyes looking at the computer screen and Irresistible Smile Of Yours which are More Precious Than Kohinoor")
     en.runAndWait()
     rate=en.getProperty('rate')
     en.setProperty('rate',rate-80)
