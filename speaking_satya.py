@@ -57,7 +57,7 @@ def show_entry_fields():
 def cde():
     a=Tk()
     msg.showinfo("Title",message=emoji.emojize((":birthday:HAPPY BIRTHDAY SERIOUSLYYYYYYYYYY..............................:cocktail::cocktail:"),use_aliases=True))
-    msg.showinfo("HAPPY BIRTHDAY",message=emoji.emojize(("HEY CHASMISS!I COULD NOT THINK OF ANYTHING WITH MY CHARMING WAY :wink::wink:\nSo I Made This"),use_aliases=True))
+    msg.showinfo("HAPPY BIRTHDAY",message=emoji.emojize(("HEY _______!I COULD NOT THINK OF ANYTHING WITH MY CHARMING WAY :wink::wink:\nSo I Made This"),use_aliases=True))
     msg.showinfo("HAPPY BIRTHDAY",message="Please Never Ever Close The opened Command Prompt window During This Programme Execution (black window)")
     sleep(02)
     a.destroy()
@@ -83,18 +83,18 @@ def cde():
     msg.showinfo("For YOU...",message="please do me a favour by closing all the windows after doing a sexy wish")
     msg.showinfo("HAPPY BIRTHDAY",message="Please Never Close The opened Command Prompt window (black window)")
     master.mainloop()
-    a=msg.askyesno("For You....",message=emoji.emojize("Bhala Laguchi Ta ?? :confused::confused: ",use_aliases=True))
+    a=msg.askyesno("For You....",message=emoji.emojize("How is it going ?? :confused::confused: ",use_aliases=True))
     if a:
-        b=msg.askyesno("For Me",message="Ebe Ta Jibu Mo saha Baharaku ??")
+        b=msg.askyesno("For Me",message="Would you like to go out  ??")
         if b:
-            msg.showinfo("thanks",message="Pura Aneiki Basithilu")
+            msg.showinfo("thanks",message="How long have you been waiting")
 
         else:
             f=msg.askyesno("For Me....",message="Do U Always Say No??")
             if f:
                 g=msg.askyesno("For Me....",message="R U A SerialKiller or WHAT....??")
                 if g:
-                    msg.showinfo("For Me....",message="Please Manija Please....")
+                    msg.showinfo("For Me....",message="Please Agree Please....")
                     msg.showinfo("For Me....",message="Thank UUUUUUUUUUU")
                 else:
                     msg.showinfo("NO....",message="You Are A Killer And A Theif Too\n So Yes Kaha Nhele FIR Kridebi To Against Re because u hve smthng whch belngs to me withut any permission")
@@ -103,7 +103,7 @@ def cde():
     else:
         msg.showinfo('Ok',message="This Is Just Beginning Pare Ahuri Excited Things Achi Khali Han Kahide..........")
 
-    msg.showinfo("Hey....",message="8260340709 number re miss call de")
+    msg.showinfo("Hey....",message="546213546321656 number re miss call de")
 
 
 if __name__=='__main__':
